@@ -1,6 +1,6 @@
 # CodeRefinery-Testing_CI_Coverage
 [![Travis status][travis-badge]][travis-link]
-[![Coveralls status][coveralls-badge]][coveralls-badge]
+[![Coveralls status][coveralls-badge]][coveralls-link]
 
 Testing CI and Coverage with CodeRefinery
 
